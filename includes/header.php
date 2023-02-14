@@ -12,7 +12,7 @@
 </head>
 <body>
         <header class="mainheader">
-            <h1>Moment 2</h1>
+            <h1>php-todo</h1>
         </header>
             <main>
                 <section id="content">
